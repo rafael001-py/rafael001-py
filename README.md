@@ -1,6 +1,4 @@
 # Olá Amigos, Rafael Lima Aqui!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael001-py)](https://github.com/rafael001-py/github-readme-stats)
-
 
 ## Sobre mim
 - **22 anos**.  
