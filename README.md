@@ -12,6 +12,8 @@
 [![Can You Feel My Heart](https://img.shields.io/badge/Can_You_Feel_My_Heart-BMTH-purple?style=for-the-badge)](https://www.youtube.com/watch?v=3YxaaGgTQYM)
 [![Cigaro](https://img.shields.io/badge/Cigaro-SOAD-purple?style=for-the-badge)](https://www.youtube.com/watch?v=9o9H2AgWN3Y)
 
+<img src="img/spr_char_idle.gif" alt="Minha Imagem">
+
 
 
 ##  Habilidades
