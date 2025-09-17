@@ -7,8 +7,8 @@
 - Iniciei um projeto de **podcast** chamado **MimiCast**, onde exploro narrativas e conteúdos sobre RPG.
 
 [![Bohemian Rhapsody](https://img.shields.io/badge/Bohemian_Rhapsody-Queen-purple?style=for-the-badge)](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)
-[![Can You Feel My Heart](https://img.shields.io/badge/Can_You_Feel_My_Heart-BMTH-purple?style=for-the-badge)](https://www.youtube.com/watch?v=3YxaaGgTQYM)
-[![Cigaro](https://img.shields.io/badge/Cigaro-SOAD-purple?style=for-the-badge)](https://www.youtube.com/watch?v=9o9H2AgWN3Y)
+[![Can You Feel My Heart](https://img.shields.io/badge/Can_You_Feel_My_Heart-BMTH-purple?style=for-the-badge)](https://www.youtube.com/watch?v=QJJYpsA5tv8)
+[![Cigaro](https://img.shields.io/badge/Cigaro-SOAD-purple?style=for-the-badge)](https://www.youtube.com/watch?v=L4M98z22pgI)
 
 <img src="img/spr_char_idle.gif" alt="Minha Imagem">
 
