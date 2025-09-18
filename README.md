@@ -12,6 +12,8 @@
 
 <img src="img/spr_char_idle.gif" alt="Minha Imagem">
 
+![rafael001-py's Stats](https://github-readme-stats.vercel.app/api?username=rafael001-py&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
 
 
 ##  Habilidades
