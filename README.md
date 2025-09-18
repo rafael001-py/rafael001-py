@@ -6,9 +6,13 @@
 - Apaixonado por tecnologia, programação, RPG e desenvolvimento de jogos.  
 - Iniciei um projeto de **podcast** chamado **MimiCast**, onde exploro narrativas e conteúdos sobre RPG.
 
-[![Bohemian Rhapsody](https://img.shields.io/badge/Bohemian_Rhapsody-Queen-purple?style=for-the-badge)](https://www.youtube.com/watch?v=fJ9rUzIMcZQ)
-[![Can You Feel My Heart](https://img.shields.io/badge/Can_You_Feel_My_Heart-BMTH-purple?style=for-the-badge)](https://www.youtube.com/watch?v=QJJYpsA5tv8)
-[![Cigaro](https://img.shields.io/badge/Cigaro-SOAD-purple?style=for-the-badge)](https://www.youtube.com/watch?v=L4M98z22pgI)
+<a href="https://www.youtube.com/watch?v=fJ9rUzIMcZQ" target="_blank">
+  <img src="https://img.shields.io/badge/Bohemian_Rhapsody-Queen-purple?style=for-the-badge" alt="Bohemian Rhapsody">
+</a> <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM" target="_blank">
+  <img src="https://img.shields.io/badge/Can_You_Feel_My_Heart-BMTH-purple?style=for-the-badge" alt="Can You Feel My Heart">
+</a> <a href="https://www.youtube.com/watch?v=9o9H2AgWN3Y" target="_blank">
+  <img src="https://img.shields.io/badge/Cigaro-SOAD-purple?style=for-the-badge" alt="Cigaro">
+</a>
 
 <img src="img/spr_char_idle.gif" alt="Minha Imagem">
 
@@ -33,6 +37,10 @@
 
 ## Onde me encontrar
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael1.png) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-caua-delariva-de-lima-80b9b6304)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/7Cbn0aRGTJVGBNIj9G5Pqt)
+<a href="https://www.instagram.com/rafael1.png" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a> <a href="https://www.linkedin.com/in/rafael-caua-delariva-de-lima-80b9b6304" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> <a href="https://open.spotify.com/show/7Cbn0aRGTJVGBNIj9G5Pqt" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+</a>
